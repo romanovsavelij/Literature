@@ -3,7 +3,7 @@ My reading list
 
 ## Читаю 
 
-- "High Performance Browser Networking" Ilya Grigorik
+- "High Performance Browser Networking" Ilya Grigorik - пока одолел главы 1, 2, 3, 5
 
 ## Прочитал
 
