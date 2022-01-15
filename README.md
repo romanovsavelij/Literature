@@ -4,7 +4,7 @@ My reading list
 ## Читаю 
 
 - "High Performance Browser Networking" Ilya Grigorik - пока одолел главы 1, 2, 3, 5
-- "Go with the Domain: Building Modern Business Software in Go" Three Dots Labs - посмотрел отдельные главы, надо бы основательно засесть м
+- "Go with the Domain: Building Modern Business Software in Go" Three Dots Labs - прочитал главы 0, 1, главу 2 пока не дочитал
 
 ## Прочитал
 
