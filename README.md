@@ -8,6 +8,7 @@ My reading list
 
 ## Хочу прочесть
 
+- "Designing data-intensive applications" Martin Kleppmann
 - "Accelerate. The Science of Lean Software and DevOps" Nicole Forsgren
 
 ## Прочитал
