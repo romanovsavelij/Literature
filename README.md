@@ -3,7 +3,7 @@ My reading list
 
 ## Читаю 
 
-- "Designing data-intensive applications" Martin Kleppmann - прочел введение 
+- "Designing data-intensive applications" Martin Kleppmann - прочитал главы 1, 2
 - "High Performance Browser Networking" Ilya Grigorik - пока одолел главы 1, 2, 3, 5, 9, 10
 - "Go with the Domain: Building Modern Business Software in Go" Three Dots Labs - прочитал главы 0, 1, главу 2 пока не дочитал
 
