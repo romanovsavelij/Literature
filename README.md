@@ -3,7 +3,7 @@ My reading list
 
 ## Читаю 
 
-- "Designing data-intensive applications" Martin Kleppmann - прочитал главы 1, 2
+- "Designing data-intensive applications" Martin Kleppmann - прочитал главы 1, 2, начал главу 4
 - "Утопия" Томас Мор
 
 ## Хочу прочесть
