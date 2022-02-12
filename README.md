@@ -3,6 +3,7 @@ My reading list
 
 ## Читаю 
 
+- "Clean Code" Robert Martin
 - "Designing data-intensive applications" Martin Kleppmann - прочитал главы 1, 2, 4
 - "Утопия" Томас Мор
 
