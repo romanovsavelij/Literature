@@ -3,9 +3,7 @@ My reading list
 
 ## Читаю 
 
-- "Clean Code" Robert Martin
-- "Designing data-intensive applications" Martin Kleppmann - прочитал главы 1, 2, 4
-- "Утопия" Томас Мор
+- "Компьютерные сети" Таненбаум
 
 ## Хочу прочесть
 
@@ -13,6 +11,7 @@ My reading list
 
 ## Прочитал
 
+- "Hygge. Серкет датского счастья"
 - "Богатый папа, бедный папа" Роберт Кийосаки
 - "Искусство войны" Сунь-Цзы
 - "Отверженные" Виктор Гюго
@@ -23,6 +22,9 @@ My reading list
 
 ## Отложил
 
+- "Clean Code" Robert Martin
+- "Designing data-intensive applications" Martin Kleppmann - прочитал главы 1, 2, 4
+- "Утопия" Томас Мор
 - "High Performance Browser Networking" Ilya Grigorik - пока одолел главы 1, 2, 3, 5, 9, 10
 - "Go with the Domain: Building Modern Business Software in Go" Three Dots Labs - прочитал главы 0, 1, главу 2 пока не дочитал
 - "Черный лебедь. Под знаком непредсказуемости" Талеб Нассим
