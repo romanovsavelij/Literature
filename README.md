@@ -6,6 +6,7 @@ My reading list
 - "Компьютерные сети" Таненбаум
 
 ## Хочу прочесть
+- "Clean Architecture" Robert Martin
 - "The Man Who Solved the Market" Gregory Zuckerman
 - "A Man for All Markets" Edward O. Thorp
 - "Category Theory for Programmers" Bartosz Milewski
