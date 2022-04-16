@@ -6,7 +6,9 @@ My reading list
 - "Компьютерные сети" Таненбаум
 
 ## Хочу прочесть
-
+- "The Man Who Solved the Market" Gregory Zuckerman
+- "A Man for All Markets" Edward O. Thorp
+- "Category Theory for Programmers" Bartosz Milewski
 - "Accelerate. The Science of Lean Software and DevOps" Nicole Forsgren
 
 ## Прочитал
