@@ -3,9 +3,10 @@ My reading list
 
 ## Читаю 
 
-- "Компьютерные сети" Таненбаум
+- "Introduction to Zen Buddhism" D.T. Suzuki
 
 ## Хочу прочесть
+- "How Google Works" Eric Schmidt
 - "Clean Architecture" Robert Martin
 - "The Man Who Solved the Market" Gregory Zuckerman
 - "A Man for All Markets" Edward O. Thorp
@@ -25,6 +26,7 @@ My reading list
 
 ## Отложил
 
+- "Компьютерные сети" Таненбаум
 - "Clean Code" Robert Martin
 - "Designing data-intensive applications" Martin Kleppmann - прочитал главы 1, 2, 4
 - "Утопия" Томас Мор
