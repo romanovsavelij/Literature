@@ -4,6 +4,7 @@ My reading list
 ## Читаю 
 
 - "Introduction to Zen Buddhism" D.T. Suzuki
+- "The Defining Decade" Meg Jay
 
 ## Хочу прочесть
 - "How Google Works" Eric Schmidt
