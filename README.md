@@ -4,7 +4,7 @@ My reading list
 ## Читаю 
 
 - "Introduction to Zen Buddhism" D.T. Suzuki
-- "The Defining Decade" Meg Jay
+- "Основание семейной жизни" Иоанн Крестьянкин
 
 ## Хочу прочесть
 - "How Google Works" Eric Schmidt
@@ -27,6 +27,7 @@ My reading list
 
 ## Отложил
 
+- "The Defining Decade" Meg Jay
 - "Компьютерные сети" Таненбаум
 - "Clean Code" Robert Martin
 - "Designing data-intensive applications" Martin Kleppmann - прочитал главы 1, 2, 4
