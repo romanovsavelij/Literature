@@ -7,6 +7,7 @@ My reading list
 - "Основание семейной жизни" Иоанн Крестьянкин
 
 ## Хочу прочесть
+- "Угроза национальной безопасности" Илья Яшин
 - "How Google Works" Eric Schmidt
 - "Clean Architecture" Robert Martin
 - "The Man Who Solved the Market" Gregory Zuckerman
