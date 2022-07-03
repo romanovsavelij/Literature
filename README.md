@@ -3,8 +3,7 @@ My reading list
 
 ## Читаю 
 
-- "Introduction to Zen Buddhism" D.T. Suzuki
-- "Основание семейной жизни" Иоанн Крестьянкин
+- "Designing data-intensive applications" Martin Kleppmann - прочитал главы 1, 2, 4
 
 ## Хочу прочесть
 - "Угроза национальной безопасности" Илья Яшин
@@ -28,10 +27,11 @@ My reading list
 
 ## Отложил
 
+- "Introduction to Zen Buddhism" D.T. Suzuki
+- "Основание семейной жизни" Иоанн Крестьянкин
 - "The Defining Decade" Meg Jay
 - "Компьютерные сети" Таненбаум
 - "Clean Code" Robert Martin
-- "Designing data-intensive applications" Martin Kleppmann - прочитал главы 1, 2, 4
 - "Утопия" Томас Мор
 - "High Performance Browser Networking" Ilya Grigorik - пока одолел главы 1, 2, 3, 5, 9, 10
 - "Go with the Domain: Building Modern Business Software in Go" Three Dots Labs - прочитал главы 0, 1, главу 2 пока не дочитал
