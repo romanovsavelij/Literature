@@ -3,7 +3,7 @@ My reading list
 
 ## Читаю 
 
-- "Designing data-intensive applications" Martin Kleppmann - прочитал главы 1, 2, 4
+- "Designing Data-Intensive Applications" Martin Kleppmann - прочитал главы 1, 2, 4
 
 ## Хочу прочесть
 - "Угроза национальной безопасности" Илья Яшин
