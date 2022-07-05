@@ -6,6 +6,7 @@ My reading list
 - "Designing Data-Intensive Applications" Martin Kleppmann - прочитал главы 1, 2, 4
 
 ## Хочу прочесть
+- "Фокус: Достижение приоритетных целей" Стивен Кови
 - "Угроза национальной безопасности" Илья Яшин
 - "How Google Works" Eric Schmidt
 - "Clean Architecture" Robert Martin
