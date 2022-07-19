@@ -3,8 +3,8 @@ My reading list
 
 ## Читаю 
 
-- "Designing Data-Intensive Applications" Martin Kleppmann - прочитал главы 1, 2, 4
-- "От двух до пяти" Корней Чуковский
+- "Портрет Дориана Грея" Оскар Уайльд
+- "Open Longevity. Как устроено старение и что с ним делать" Благодатский
 
 ## Хочу прочесть
 
@@ -41,6 +41,8 @@ My reading list
 
 ## Отложил
 
+- "Designing Data-Intensive Applications" Martin Kleppmann - прочитал главы 1, 2, 4
+- "От двух до пяти" Корней Чуковский
 - "How to Win Friends and Influence People" Dale Carnegie
 - "Introduction to Zen Buddhism" D.T. Suzuki
 - "Основание семейной жизни" Иоанн Крестьянкин
