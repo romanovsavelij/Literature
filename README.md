@@ -8,6 +8,7 @@ My reading list
 
 ## Хочу прочесть
 
+- "Cracking the Coding Interview"
 - "Site Reliability Engineering" Google
 - "Завтрак у Sotheby’s" Филип Хук
 - "Искусство управления IT-проектами" Скотт Беркун
