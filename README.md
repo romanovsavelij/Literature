@@ -7,8 +7,9 @@ My reading list
 
 ## Хочу прочесть
 
+- "Имя розы" Умберто Эко
 - "Cracking the Coding Interview"
-- "Site Reliability Engineering" Google
+- ["Site Reliability Engineering" Google](https://sre.google/sre-book/table-of-contents/)
 - "Завтрак у Sotheby’s" Филип Хук
 - "Искусство управления IT-проектами" Скотт Беркун
 - "Семь навыков высокоэффективных людей" Стивен Кови
