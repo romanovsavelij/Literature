@@ -4,10 +4,11 @@ My reading list
 ## Читаю 
 
 - "Open Longevity. Как устроено старение и что с ним делать" Благодатский
+- "Имя розы" Умберто Эко
 
 ## Хочу прочесть
 
-- "Имя розы" Умберто Эко
+- "Сначала скажите нет" Джим Кэмп
 - "Cracking the Coding Interview"
 - ["Site Reliability Engineering" Google](https://sre.google/sre-book/table-of-contents/)
 - "Завтрак у Sotheby’s" Филип Хук
