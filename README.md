@@ -3,11 +3,14 @@ My reading list
 
 ## Читаю 
 
-- "Open Longevity. Как устроено старение и что с ним делать" Благодатский
-- "Имя розы" Умберто Эко
+- "Лжец на кушетке" Ирвин Ялом 
+- "Память" Тони Бьюзен
 
 ## Хочу прочесть
 
+- "Computer Networking : Principles,Protocols and Practice"
+- "Computer Networking: A Top-Down Approach"
+- "Computer Networks: A Systems Approach" 
 - "Сначала скажите нет" Джим Кэмп
 - "Cracking the Coding Interview"
 - ["Site Reliability Engineering" Google](https://sre.google/sre-book/table-of-contents/)
@@ -33,6 +36,7 @@ My reading list
 
 ## Прочитал
 
+- "Имя розы" Умберто Эко
 - "Портрет Дориана Грея" Оскар Уайльд
 - "Hygge. Серкет датского счастья"
 - "Богатый папа, бедный папа" Роберт Кийосаки
@@ -45,6 +49,7 @@ My reading list
 
 ## Отложил
 
+- "Open Longevity. Как устроено старение и что с ним делать" Благодатский
 - "Designing Data-Intensive Applications" Martin Kleppmann - прочитал главы 1, 2, 4
 - "От двух до пяти" Корней Чуковский
 - "How to Win Friends and Influence People" Dale Carnegie
