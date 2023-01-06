@@ -8,6 +8,8 @@ My reading list
 
 ## Хочу прочесть
 
+- "Учение об условных рефлексах" Павлов
+- "ТЕОРИЯ УСТАНОВКИ" Д. М. УЗНАДЗЕ.
 - "Computer Networking : Principles,Protocols and Practice"
 - "Computer Networking: A Top-Down Approach"
 - "Computer Networks: A Systems Approach" 
