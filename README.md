@@ -8,6 +8,7 @@ My reading list
 
 ## Хочу прочесть
 
+- "Pre-Suasion: A Revolutionary Way to Influence and Persuade" Robert Kialdini 
 - "Lying" Sam Harris
 - "Waking Up׃ A Guide to Spirituality Without Religion" Sam Harris
 - "The sovereigh individual"
