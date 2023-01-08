@@ -8,6 +8,7 @@ My reading list
 
 ## Хочу прочесть
 
+- "Lying" Sam Harris
 - "Waking Up׃ A Guide to Spirituality Without Religion" Sam Harris
 - "The sovereigh individual"
 - "Краткая история всего" Кен Уилбер 
