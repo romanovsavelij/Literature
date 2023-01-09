@@ -3,12 +3,18 @@ My reading list
 
 ## Читаю 
 
-- "Лжец на кушетке" Ирвин Ялом 
-- "Sapiens. Краткая история человечества" Юваль Ной Харари
+- “Lying on the Couch” Irvin Yalom
+- “Sapiens: A Brief History of Humankind” Yuval Noah Harari 
 - "Память" Тони Бьюзен
 
 ## Хочу прочесть
 
+- “Maybe You Should Talk To Someone” Lori Gottlieb
+- “Can't Hurt Me: Master Your Mind and Defy the Odds” David Goggins
+- “Games People Play” Eric Berne
+- "The Selfish Gene" Richard Dawkins
+- “Metro 2033” Глуховский 
+- “Текст” Глуховский
 - "Pre-Suasion: A Revolutionary Way to Influence and Persuade" Robert Kialdini 
 - "Lying" Sam Harris
 - "Waking Up׃ A Guide to Spirituality Without Religion" Sam Harris
