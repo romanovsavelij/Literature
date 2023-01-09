@@ -9,6 +9,9 @@ My reading list
 
 ## Хочу прочесть
 
+- "Человек который смеется" Виктор Гюго
+- "Архипелагът ГУЛаг" Солженицын
+- "Три товарища" Ремарк
 - “Maybe You Should Talk To Someone” Lori Gottlieb
 - “Can't Hurt Me: Master Your Mind and Defy the Odds” David Goggins
 - “Games People Play” Eric Berne
