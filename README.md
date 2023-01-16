@@ -3,13 +3,12 @@ My reading list
 
 ## Читаю 
 
+- "Человек который смеется" Виктор Гюго
 - “Lying on the Couch” Irvin Yalom
-- “Sapiens: A Brief History of Humankind” Yuval Noah Harari 
 - "Память" Тони Бьюзен
 
 ## Хочу прочесть
 
-- "Человек который смеется" Виктор Гюго
 - "Архипелагът ГУЛаг" Солженицын
 - "Три товарища" Ремарк
 - “Maybe You Should Talk To Someone” Lori Gottlieb
@@ -59,6 +58,7 @@ My reading list
 
 ## Прочитал
 
+- “Sapiens: A Brief History of Humankind” Yuval Noah Harari 
 - "Имя розы" Умберто Эко
 - "Портрет Дориана Грея" Оскар Уайльд
 - "Hygge. Серкет датского счастья"
