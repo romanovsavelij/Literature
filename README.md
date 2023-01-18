@@ -9,6 +9,7 @@ My reading list
 
 ## Хочу прочесть
 
+- "Один в океане. История побега" Слава Курилов
 - "Архипелагът ГУЛаг" Солженицын
 - "Три товарища" Ремарк
 - “Maybe You Should Talk To Someone” Lori Gottlieb
