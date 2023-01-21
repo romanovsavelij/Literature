@@ -3,13 +3,11 @@ My reading list
 
 ## Читаю 
 
-- "Человек который смеется" Виктор Гюго
+- "Один в океане. История побега" Слава Курилов
 - “Lying on the Couch” Irvin Yalom
-- "Память" Тони Бьюзен
 
 ## Хочу прочесть
 
-- "Один в океане. История побега" Слава Курилов
 - "Архипелагът ГУЛаг" Солженицын
 - "Три товарища" Ремарк
 - “Maybe You Should Talk To Someone” Lori Gottlieb
@@ -59,6 +57,7 @@ My reading list
 
 ## Прочитал
 
+- "Человек который смеется" Виктор Гюго
 - “Sapiens: A Brief History of Humankind” Yuval Noah Harari 
 - "Имя розы" Умберто Эко
 - "Портрет Дориана Грея" Оскар Уайльд
@@ -73,6 +72,7 @@ My reading list
 
 ## Отложил
 
+- "Память" Тони Бьюзен
 - "Open Longevity. Как устроено старение и что с ним делать" Благодатский
 - "Designing Data-Intensive Applications" Martin Kleppmann - прочитал главы 1, 2, 4
 - "От двух до пяти" Корней Чуковский
