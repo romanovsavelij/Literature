@@ -3,19 +3,15 @@ My reading list
 
 ## Читаю 
 
-- "Один в океане. История побега" Слава Курилов
-- “Lying on the Couch” Irvin Yalom
 
 ## Хочу прочесть
 
 - "Архипелагът ГУЛаг" Солженицын
-- "Три товарища" Ремарк
 - “Maybe You Should Talk To Someone” Lori Gottlieb
 - “Can't Hurt Me: Master Your Mind and Defy the Odds” David Goggins
 - “Games People Play” Eric Berne
 - "The Selfish Gene" Richard Dawkins
 - “Metro 2033” Глуховский 
-- “Текст” Глуховский
 - "Pre-Suasion: A Revolutionary Way to Influence and Persuade" Robert Kialdini 
 - "Lying" Sam Harris
 - "Waking Up׃ A Guide to Spirituality Without Religion" Sam Harris
@@ -54,9 +50,15 @@ My reading list
 - "A Man for All Markets" Edward O. Thorp
 - "Category Theory for Programmers" Bartosz Milewski
 - "Accelerate. The Science of Lean Software and DevOps" Nicole Forsgren
+- "Один в океане. История побега" Слава Курилов
+- “Текст” Глуховский
 
 ## Прочитал
 
+- "Остров Сахалин" Чехов
+- "Руководство для желающих жениться" Чехов
+- "Герой нашего времени" Лермонтов
+- "Три товарища" Ремарк
 - "Человек который смеется" Виктор Гюго
 - “Sapiens: A Brief History of Humankind” Yuval Noah Harari 
 - "Имя розы" Умберто Эко
@@ -72,6 +74,7 @@ My reading list
 
 ## Отложил
 
+- “Lying on the Couch” Irvin Yalom
 - "Память" Тони Бьюзен
 - "Open Longevity. Как устроено старение и что с ним делать" Благодатский
 - "Designing Data-Intensive Applications" Martin Kleppmann - прочитал главы 1, 2, 4
