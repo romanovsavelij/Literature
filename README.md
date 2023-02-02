@@ -6,6 +6,7 @@ My reading list
 
 ## Хочу прочесть
 
+- "Fundamentals of Mobile Data Networks" Miao
 - "Архипелагът ГУЛаг" Солженицын
 - “Maybe You Should Talk To Someone” Lori Gottlieb
 - “Can't Hurt Me: Master Your Mind and Defy the Odds” David Goggins
