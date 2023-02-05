@@ -3,6 +3,7 @@ My reading list
 
 ## Читаю 
 
+- “Metro 2033” Глуховский 
 
 ## Хочу прочесть
 
@@ -12,7 +13,6 @@ My reading list
 - “Can't Hurt Me: Master Your Mind and Defy the Odds” David Goggins
 - “Games People Play” Eric Berne
 - "The Selfish Gene" Richard Dawkins
-- “Metro 2033” Глуховский 
 - "Pre-Suasion: A Revolutionary Way to Influence and Persuade" Robert Kialdini 
 - "Lying" Sam Harris
 - "Waking Up׃ A Guide to Spirituality Without Religion" Sam Harris
@@ -56,6 +56,7 @@ My reading list
 
 ## Прочитал
 
+- "На Западном фронте без перемен" Ремарк
 - "Остров Сахалин" Чехов
 - "Руководство для желающих жениться" Чехов
 - "Герой нашего времени" Лермонтов
