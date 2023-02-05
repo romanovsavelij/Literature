@@ -7,6 +7,13 @@ My reading list
 
 ## Хочу прочесть
 
+- "The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life" Mark Manson
+- "Humilitas: A Lost Key to Life, Love, and Leadership" John Dickson
+- "The Captain Class: The Hidden Force That Creates the World’s Greatest Teams" Sam Walker
+- "Creativity: The Psychology of Discovery and Invention" Mihaly Csikszentmihalyi
+- "The Road To Character" David Brooks
+- "A Fighter’s Mind" Sam Sheridan
+- "So Good They Can’t Ignore You: Why Skills Trump Passion in the Quest for Work You Love" Cal Newport
 - "Fundamentals of Mobile Data Networks" Miao
 - "Архипелагът ГУЛаг" Солженицын
 - “Maybe You Should Talk To Someone” Lori Gottlieb
