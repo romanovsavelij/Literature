@@ -3,11 +3,11 @@ My reading list
 
 ## Читаю 
 
-- "The Captain Class: The Hidden Force That Creates the World’s Greatest Teams" Sam Walker
-- “Metro 2033” Глуховский 
+- "Легкое дыхание" Бунин
 
 ## Хочу прочесть
 
+- "1984" Оруэлл
 - "The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life" Mark Manson
 - "Humilitas: A Lost Key to Life, Love, and Leadership" John Dickson
 - "Creativity: The Psychology of Discovery and Invention" Mihaly Csikszentmihalyi
@@ -83,6 +83,8 @@ My reading list
 
 ## Отложил
 
+- "The Captain Class: The Hidden Force That Creates the World’s Greatest Teams" Sam Walker
+- “Metro 2033” Глуховский 
 - “Lying on the Couch” Irvin Yalom
 - "Память" Тони Бьюзен
 - "Open Longevity. Как устроено старение и что с ним делать" Благодатский
