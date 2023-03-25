@@ -3,6 +3,7 @@ My reading list
 
 ## Читаю 
 
+- "The lean startup" Eric Ries
 - "Легкое дыхание" Бунин
 
 ## Хочу прочесть
