@@ -4,6 +4,7 @@ My reading list
 ## Читаю 
 
 - "The lean startup" Eric Ries
+- "Анна Каренина" Толстой
 - "Легкое дыхание" Бунин
 
 ## Хочу прочесть
