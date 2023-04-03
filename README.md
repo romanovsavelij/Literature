@@ -5,10 +5,10 @@ My reading list
 
 - "The lean startup" Eric Ries
 - "Анна Каренина" Толстой
-- "Легкое дыхание" Бунин
 
 ## Хочу прочесть
 
+- "Легкое дыхание" Бунин
 - "1984" Оруэлл
 - "The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life" Mark Manson
 - "Humilitas: A Lost Key to Life, Love, and Leadership" John Dickson
