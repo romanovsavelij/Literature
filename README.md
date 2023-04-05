@@ -8,7 +8,7 @@ My reading list
 
 ## Хочу прочесть
 
-- "Легкое дыхание" Бунин
+- "Жизнь – сапожок непарный"
 - "1984" Оруэлл
 - "The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life" Mark Manson
 - "Humilitas: A Lost Key to Life, Love, and Leadership" John Dickson
@@ -65,6 +65,7 @@ My reading list
 
 ## Прочитал
 
+- "Легкое дыхание" Бунин
 - "На Западном фронте без перемен" Ремарк
 - "Остров Сахалин" Чехов
 - "Руководство для желающих жениться" Чехов
