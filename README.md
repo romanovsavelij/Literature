@@ -8,6 +8,7 @@ My reading list
 
 ## Хочу прочесть
 
+- "Trillion Dollar Coach"
 - "Жизнь – сапожок непарный"
 - "1984" Оруэлл
 - "The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life" Mark Manson
