@@ -8,7 +8,6 @@ My reading list
 ## Хочу прочесть
 
 - "Просто делай! Делай просто!" Оскар Хартманн
-- David Epstein: Range. How Generalists Triumph in a Specialized World
 - "Trillion Dollar Coach"
 - "Жизнь – сапожок непарный"
 - "1984" Оруэлл
@@ -67,6 +66,7 @@ My reading list
 
 ## Прочитал
 
+- David Epstein: Range. How Generalists Triumph in a Specialized World
 - "Легкое дыхание" Бунин
 - "На Западном фронте без перемен" Ремарк
 - "Остров Сахалин" Чехов
