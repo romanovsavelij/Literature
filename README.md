@@ -3,11 +3,12 @@ My reading list
 
 ## Читаю 
 
-- "The lean startup" Eric Ries
-- "Анна Каренина" Толстой
+- "К себе нежно" Ольга Примаченко
 
 ## Хочу прочесть
 
+- "Просто делай! Делай просто!" Оскар Хартманн
+- David Epstein: Range. How Generalists Triumph in a Specialized World
 - "Trillion Dollar Coach"
 - "Жизнь – сапожок непарный"
 - "1984" Оруэлл
@@ -87,6 +88,8 @@ My reading list
 
 ## Отложил
 
+- "The lean startup" Eric Ries
+- "Анна Каренина" Толстой
 - "The Captain Class: The Hidden Force That Creates the World’s Greatest Teams" Sam Walker
 - “Metro 2033” Глуховский 
 - “Lying on the Couch” Irvin Yalom
