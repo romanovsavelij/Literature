@@ -4,6 +4,7 @@ My reading list
 ## Читаю 
 
 - "Доктор Живаго" Пастернак
+- “Lying on the Couch” Irvin Yalom
 
 ## Хочу прочесть
 
@@ -101,7 +102,6 @@ My reading list
 - "Анна Каренина" Толстой
 - "The Captain Class: The Hidden Force That Creates the World’s Greatest Teams" Sam Walker
 - “Metro 2033” Глуховский 
-- “Lying on the Couch” Irvin Yalom
 - "Память" Тони Бьюзен
 - "Open Longevity. Как устроено старение и что с ним делать" Благодатский
 - "Designing Data-Intensive Applications" Martin Kleppmann - прочитал главы 1, 2, 4
