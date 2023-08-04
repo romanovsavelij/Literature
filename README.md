@@ -3,8 +3,7 @@ My reading list
 
 ## Читаю 
 
-- "Доктор Живаго" Пастернак
-- “Lying on the Couch” Irvin Yalom
+- "The Defining Decade" Meg Jay
 
 ## Хочу прочесть
 
@@ -62,7 +61,6 @@ My reading list
 - "Сделай это завтра" Марк Форстер 
 - "Фокус: Достижение приоритетных целей" Стивен Кови
 - "Угроза национальной безопасности" Илья Яшин
-- "How Google Works" Eric Schmidt
 - "Clean Architecture" Robert Martin
 - "The Man Who Solved the Market" Gregory Zuckerman
 - "A Man for All Markets" Edward O. Thorp
@@ -73,6 +71,7 @@ My reading list
 
 ## Прочитал
 
+- "How Google Works" Eric Schmidt
 - "Салават Юлаев" Злобин
 - "Пять языков любви" Гэри Чепмен
 - "К себе нежно" Ольга Примаченко
@@ -99,6 +98,8 @@ My reading list
 
 ## Отложил
 
+- "Доктор Живаго" Пастернак
+- “Lying on the Couch” Irvin Yalom
 - "The lean startup" Eric Ries
 - "Анна Каренина" Толстой
 - "The Captain Class: The Hidden Force That Creates the World’s Greatest Teams" Sam Walker
@@ -110,7 +111,6 @@ My reading list
 - "How to Win Friends and Influence People" Dale Carnegie
 - "Introduction to Zen Buddhism" D.T. Suzuki
 - "Основание семейной жизни" Иоанн Крестьянкин
-- "The Defining Decade" Meg Jay
 - "Компьютерные сети" Таненбаум
 - "Clean Code" Robert Martin
 - "Утопия" Томас Мор
