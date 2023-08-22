@@ -4,10 +4,10 @@ My reading list
 ## Читаю 
 
 - "The Defining Decade" Meg Jay
+- "Доктор Живаго" Пастернак
 
 ## Хочу прочесть
 
-- "Додо книга"
 - "Алые паруса" Грин
 - "Чувство любви" Сью Джонсон
 - "Язык тела" Александр Лоун
@@ -70,6 +70,7 @@ My reading list
 
 ## Прочитал
 
+- "Додо книга"
 - "Обними меня крепче" Сью Джонсон
 - "How Google Works" Eric Schmidt
 - "Салават Юлаев" Злобин
@@ -98,7 +99,6 @@ My reading list
 
 ## Отложил
 
-- "Доктор Живаго" Пастернак
 - “Lying on the Couch” Irvin Yalom
 - "The lean startup" Eric Ries
 - "Анна Каренина" Толстой
