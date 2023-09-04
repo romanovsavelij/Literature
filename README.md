@@ -8,6 +8,7 @@ My reading list
 
 ## Хочу прочесть
 
+- "Solve for Happy"
 - "The pragmatic programmer"
 - "Алые паруса" Грин
 - "Чувство любви" Сью Джонсон
