@@ -3,6 +3,7 @@ My reading list
 
 ## Читаю 
 
+- "Ненасильственное общение"
 - "The Defining Decade" Meg Jay
 - "Доктор Живаго" Пастернак
 
