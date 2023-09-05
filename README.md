@@ -9,6 +9,7 @@ My reading list
 
 ## Хочу прочесть
 
+- "The book of why"
 - "Solve for Happy"
 - "The pragmatic programmer"
 - "Алые паруса" Грин
