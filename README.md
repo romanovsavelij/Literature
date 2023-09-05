@@ -9,6 +9,7 @@ My reading list
 
 ## Хочу прочесть
 
+- "Bargaining markets A.Rubenstein"
 - "The book of why"
 - "Solve for Happy"
 - "The pragmatic programmer"
