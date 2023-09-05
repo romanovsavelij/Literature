@@ -9,6 +9,7 @@ My reading list
 
 ## Хочу прочесть
 
+- "The travels of a T-shirt"
 - "Bargaining markets A.Rubenstein"
 - "The book of why"
 - "Solve for Happy"
