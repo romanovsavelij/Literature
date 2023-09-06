@@ -9,6 +9,7 @@ My reading list
 
 ## Хочу прочесть
 
+- "Спасение капитолистов от капиталистов"
 - "The travels of a T-shirt"
 - "Bargaining markets A.Rubenstein"
 - "The book of why"
