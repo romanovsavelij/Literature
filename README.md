@@ -9,6 +9,7 @@ My reading list
 
 ## Хочу прочесть
 
+- "Founding sales" Peter Kazanjy
 - "Спасение капитолистов от капиталистов"
 - "The travels of a T-shirt"
 - "Bargaining markets A.Rubenstein"
