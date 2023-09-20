@@ -3,6 +3,7 @@ My reading list
 
 ## Читаю 
 
+- "Solve for Happy"
 - "Ненасильственное общение"
 - "The Defining Decade" Meg Jay
 
@@ -13,7 +14,6 @@ My reading list
 - "The travels of a T-shirt"
 - "Bargaining markets A.Rubenstein"
 - "The book of why"
-- "Solve for Happy"
 - "The pragmatic programmer"
 - "Алые паруса" Грин
 - "Чувство любви" Сью Джонсон
