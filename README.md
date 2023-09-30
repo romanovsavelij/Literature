@@ -3,9 +3,9 @@ My reading list
 
 ## Читаю 
 
+- "Тихий дон" Шолохов
 - "Solve for Happy"
 - "Ненасильственное общение"
-- "The Defining Decade" Meg Jay
 
 ## Хочу прочесть
 
@@ -19,7 +19,6 @@ My reading list
 - "Алые паруса" Грин
 - "Чувство любви" Сью Джонсон
 - "Язык тела" Александр Лоун
-- "Тихий дон" Шолохов
 - "Просто делай! Делай просто!" Оскар Хартманн
 - "Trillion Dollar Coach"
 - "Жизнь – сапожок непарный"
@@ -108,6 +107,7 @@ My reading list
 
 ## Отложил
 
+- "The Defining Decade" Meg Jay
 - “Lying on the Couch” Irvin Yalom
 - "The lean startup" Eric Ries
 - "Анна Каренина" Толстой
