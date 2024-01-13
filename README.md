@@ -3,9 +3,9 @@ My reading list
 
 ## Читаю 
 
-- "Тихий дон" Шолохов
+- "My Life and Work" Henry Ford
 - "Solve for Happy"
-- "Ненасильственное общение"
+- "Война и мир" Толстой
 
 ## Хочу прочесть
 
@@ -111,6 +111,8 @@ My reading list
 
 ## Отложил
 
+- "Тихий дон" Шолохов
+- "Ненасильственное общение"
 - "The Defining Decade" Meg Jay
 - “Lying on the Couch” Irvin Yalom
 - "The lean startup" Eric Ries
