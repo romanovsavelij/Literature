@@ -6,6 +6,7 @@ My reading list
 - "My Life and Work" Henry Ford
 - "Solve for Happy"
 - "Война и мир" Толстой
+- "Гори, но не сгорай" Брэд Сталберг
 
 ## Хочу прочесть
 
