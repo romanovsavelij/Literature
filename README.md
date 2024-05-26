@@ -3,9 +3,8 @@ My reading list
 
 ## Читаю 
 
-- "Гори, но не сгорай" Брэд Сталберг
+- "Clean Architecture" Robert Martin
 - "Solve for Happy"
-- "Война и мир" Толстой
 
 ## Хочу прочесть
 - Krista Tippett "Becoming Wise"
@@ -74,7 +73,6 @@ My reading list
 - "Сделай это завтра" Марк Форстер 
 - "Фокус: Достижение приоритетных целей" Стивен Кови
 - "Угроза национальной безопасности" Илья Яшин
-- "Clean Architecture" Robert Martin
 - "The Man Who Solved the Market" Gregory Zuckerman
 - "A Man for All Markets" Edward O. Thorp
 - "Category Theory for Programmers" Bartosz Milewski
@@ -84,6 +82,7 @@ My reading list
 
 ## Прочитал
 
+- "Гори, но не сгорай" Брэд Сталберг
 - "Сырок" Александров
 - "Доктор Живаго" Пастернак
 - "Додо книга"
@@ -115,6 +114,7 @@ My reading list
 
 ## Отложил
 
+- "Война и мир" Толстой
 - "My Life and Work" Henry Ford
 - "Тихий дон" Шолохов
 - "Ненасильственное общение"
