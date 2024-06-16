@@ -7,7 +7,6 @@ My reading list
 - "Solve for Happy"
 
 ## Хочу прочесть
-- Krista Tippett "Becoming Wise"
 - "Глава правиттельства"
 - Баунов "Конец режима. Как закончились три европейские диктатуры"
 - Карл Юнг "Психологические типы"
@@ -114,6 +113,7 @@ My reading list
 
 ## Отложил
 
+- - Krista Tippett "Becoming Wise" - можно подкаст иногда слушать
 - "Война и мир" Толстой
 - "My Life and Work" Henry Ford
 - "Тихий дон" Шолохов
