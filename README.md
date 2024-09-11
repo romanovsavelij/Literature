@@ -143,7 +143,7 @@ My reading list
 
 ## Отложил
 
-- - Krista Tippett "Becoming Wise" - можно подкаст иногда слушать
+- Krista Tippett "Becoming Wise" - можно подкаст иногда слушать
 - "Война и мир" Толстой
 - "My Life and Work" Henry Ford
 - "Тихий дон" Шолохов
