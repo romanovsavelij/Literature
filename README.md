@@ -3,9 +3,11 @@ My reading list
 
 ## Читаю 
 
+- Conan Doyle "The poison belt"
 - "The stoic mind" 
 - "Designing Data-Intensive Applications" Martin Kleppmann - прочитал главы 1, 2, 4 – читаю снова
 - Маршалл Розенберг "Ненасильственное общение"
+
 
 ## Хочу прочесть
 
@@ -107,6 +109,7 @@ My reading list
 
 ## Прочитал
 
+- Conan Doyle "The Lost World"
 - "Clean Architecture" Robert Martin
 - "Solve for Happy"
 - "Гори, но не сгорай" Брэд Сталберг
