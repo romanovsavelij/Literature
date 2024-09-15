@@ -3,7 +3,6 @@ My reading list
 
 ## Читаю 
 
-- Conan Doyle "The poison belt"
 - "The stoic mind" 
 - "Designing Data-Intensive Applications" Martin Kleppmann - прочитал главы 1, 2, 4 – читаю снова
 - Маршалл Розенберг "Ненасильственное общение"
@@ -12,7 +11,6 @@ My reading list
 ## Хочу прочесть
 
 - "Atomic habits"
-- "Левша" Лесков
 - "Дилемма инноватора" Клейтон Кристенсен
 - "Августовские пушки" Барбара Такман
 - "Дом правительства" Юрий Слезкин
@@ -109,6 +107,8 @@ My reading list
 
 ## Прочитал
 
+- Conan Doyle "The poison belt"
+- "Левша" Лесков
 - Conan Doyle "The Lost World"
 - "Clean Architecture" Robert Martin
 - "Solve for Happy"
