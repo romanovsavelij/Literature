@@ -3,7 +3,6 @@ My reading list
 
 ## Читаю 
 
-- "The stoic mind" 
 - "Designing Data-Intensive Applications" Martin Kleppmann - прочитал главы 1, 2, 4 – читаю снова
 - Маршалл Розенберг "Ненасильственное общение"
 
@@ -107,6 +106,7 @@ My reading list
 
 ## Прочитал
 
+- "The stoic mind" 
 - Conan Doyle "The poison belt"
 - "Левша" Лесков
 - Conan Doyle "The Lost World"
