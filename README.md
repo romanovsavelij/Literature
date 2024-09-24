@@ -3,7 +3,6 @@ My reading list
 
 ## Читаю 
 
-- Лесков "Железная воля"
 - "Designing Data-Intensive Applications" Martin Kleppmann - прочитал главы 1, 2, 4 – читаю снова
 - Маршалл Розенберг "Ненасильственное общение"
 
@@ -106,6 +105,7 @@ My reading list
 
 ## Прочитал
 
+- Лесков "Железная воля"
 - Патрик Ленсиони "5 пороков команды"
 - "The stoic mind" 
 - Conan Doyle "The poison belt"
