@@ -6,6 +6,7 @@ My reading list
 - "Designing Data-Intensive Applications" Martin Kleppmann - прочитал главы 1, 2, 4 – читаю снова
 - Маршалл Розенберг "Ненасильственное общение"
 - "Дилемма инноватора" Клейтон Кристенсен
+- "Trillion Dollar Coach"
 
 
 ## Хочу прочесть
@@ -51,7 +52,6 @@ My reading list
 - "Чувство любви" Сью Джонсон
 - "Язык тела" Александр Лоун
 - "Просто делай! Делай просто!" Оскар Хартманн
-- "Trillion Dollar Coach"
 - "Жизнь – сапожок непарный"
 - "1984" Оруэлл
 - "The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life" Mark Manson
