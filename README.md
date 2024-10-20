@@ -4,14 +4,11 @@ My reading list
 ## Читаю 
 
 - "Designing Data-Intensive Applications" Martin Kleppmann - прочитал главы 1, 2, 4 – читаю снова
-- Маршалл Розенберг "Ненасильственное общение"
-- "Дилемма инноватора" Клейтон Кристенсен
-- "Trillion Dollar Coach"
 
 
 ## Хочу прочесть
 
-- "Solve your #1 problem. Who" 
+
 - "Империя должна умереть" – падение царской России
 - "Подстрочник Лилианны Лунгиной" — жизнь в СССР
 - "Atomic habits"
@@ -108,6 +105,7 @@ My reading list
 
 ## Прочитал
 
+- "Дилемма инноватора" Клейтон Кристенсен
 - Лесков "Железная воля"
 - Патрик Ленсиони "5 пороков команды"
 - "The stoic mind" 
@@ -147,6 +145,9 @@ My reading list
 
 ## Отложил
 
+- "Trillion Dollar Coach"
+- "Solve your #1 problem. Who" 
+- Маршалл Розенберг "Ненасильственное общение"
 - Krista Tippett "Becoming Wise" - можно подкаст иногда слушать
 - "Война и мир" Толстой
 - "My Life and Work" Henry Ford
