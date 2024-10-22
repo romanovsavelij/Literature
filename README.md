@@ -3,6 +3,7 @@ My reading list
 
 ## Читаю 
 
+- "Отец Горио" Бальзак Оноре
 - "Designing Data-Intensive Applications" Martin Kleppmann - прочитал главы 1, 2, 4 – читаю снова
 
 
