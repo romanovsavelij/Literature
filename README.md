@@ -8,6 +8,10 @@ My reading list
 
 ## Хочу прочесть
 
+- Основы MMT
+https://newdeal.ru/faq
+Modern_Money_Theory_A_Primer_on_Macroeconomics_for_Sovereign_Monetary
+
 - "Как научиться оптимизму" Мартин Селигман
 множество исследований, показывающих что оптимисты здоровее, успешнее и тд, там дальше отдельный раздел о здоровом пессимизме
 
