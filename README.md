@@ -8,6 +8,11 @@ My reading list
 
 ## Хочу прочесть
 
+- "В чем моя вера?" Толстой
+- "Соединение и перевод четырех Евангелий" Толстой
+- "История государства российского" Толстой
+- "История государства российского" Карамзин
+
 - Основы MMT
 https://newdeal.ru/faq
 Modern_Money_Theory_A_Primer_on_Macroeconomics_for_Sovereign_Monetary
