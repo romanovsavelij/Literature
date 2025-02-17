@@ -8,6 +8,8 @@ My reading list
 
 ## Хочу прочесть
 
+- Goal
+- Good Strategy - Bad Strategy
 - "Never it alone"
 - "Миросозерцание Достоевского" Бердяев
 - "Братья Карамазовы" Достоевский
