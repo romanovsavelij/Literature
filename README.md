@@ -8,7 +8,7 @@ My reading list
 
 ## Хочу прочесть
 
-- Goal
+----------------------> Goal
 - Good Strategy - Bad Strategy
 - "Never it alone"
 - "Миросозерцание Достоевского" Бердяев
