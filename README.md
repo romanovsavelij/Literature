@@ -9,6 +9,7 @@ My reading list
 ## Хочу прочесть
 
 ----------------------> Goal
+- Leading By Design: The Ikea Story
 - Good Strategy - Bad Strategy
 - "Never it alone"
 - "Миросозерцание Достоевского" Бердяев
