@@ -9,6 +9,7 @@ My reading list
 ## Хочу прочесть
 
 ----------------------> Goal
+- "The Humans" Matt Haig
 - Leading By Design: The Ikea Story
 - Good Strategy - Bad Strategy
 - "Never it alone"
