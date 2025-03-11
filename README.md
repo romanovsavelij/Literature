@@ -8,7 +8,9 @@ My reading list
 
 ## Хочу прочесть
 
-----------------------> Goal
+- "Influence" Cialdini
+- "The Goal" Goldratt
+- “Games People Play” Eric Berne
 - "The Humans" Matt Haig
 - Leading By Design: The Ikea Story
 - Good Strategy - Bad Strategy
@@ -86,7 +88,6 @@ My reading list
 - "Архипелагът ГУЛаг" Солженицын
 - “Maybe You Should Talk To Someone” Lori Gottlieb
 - “Can't Hurt Me: Master Your Mind and Defy the Odds” David Goggins
-- “Games People Play” Eric Berne
 - "The Selfish Gene" Richard Dawkins
 - "Pre-Suasion: A Revolutionary Way to Influence and Persuade" Robert Kialdini 
 - "Lying" Sam Harris
