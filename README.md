@@ -8,6 +8,7 @@ My reading list
 
 ## Хочу прочесть
 
+- "Горе от ума" Грибоедов
 - "Influence" Cialdini
 - "The Goal" Goldratt
 - “Games People Play” Eric Berne
