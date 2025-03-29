@@ -8,6 +8,7 @@ My reading list
 
 ## Хочу прочесть
 
+- "The white tiger" Adiga
 - "Горе от ума" Грибоедов
 - "Influence" Cialdini
 - "The Goal" Goldratt
