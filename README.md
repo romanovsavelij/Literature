@@ -8,6 +8,7 @@ My reading list
 
 ## Хочу прочесть
 
+- "Martin Eden" Jack London
 - "Impires of Eve" Andrew Groen
 - "The white tiger" Adiga
 - "Горе от ума" Грибоедов
