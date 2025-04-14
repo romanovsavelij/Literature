@@ -3,25 +3,25 @@ My reading list
 
 ## Читаю 
 
+- "Martin Eden" Jack London
+- "Братья Карамазовы" Достоевский
+- "The Goal" Goldratt
+- “Games People Play” Eric Berne
 - "Империя должна умереть" – падение царской России
 - "В чем моя вера?" Толстой
 
 ## Хочу прочесть
 
-- "Martin Eden" Jack London
+- Булгаков "Мастер и Маргарита"
 - "Impires of Eve" Andrew Groen
 - "The white tiger" Adiga
 - "Горе от ума" Грибоедов
 - "Influence" Cialdini
-- "The Goal" Goldratt
-- “Games People Play” Eric Berne
 - "The Humans" Matt Haig
 - Leading By Design: The Ikea Story
 - Good Strategy - Bad Strategy
 - "Never it alone"
 - "Миросозерцание Достоевского" Бердяев
-- "Братья Карамазовы" Достоевский
-- "Последняя треба" Мамин-Сибиряк
 - "Горное гнездо" Мамин-Сибиряк
 - "Серая шейка" Мамин-Сибиряк 
 - "Привалловские миллионы" Мамин-Сибиряк 
@@ -134,6 +134,7 @@ My reading list
 
 ## Прочитал
 
+- "Последняя треба" Мамин-Сибиряк
 - "Дикое счастье" Мамин-Сибиряк 
 - "Биполярное расстройство" Пушкина
 - "Один день Ивана Денисовича" Солженицын
