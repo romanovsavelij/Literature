@@ -12,6 +12,7 @@ My reading list
 
 ## Хочу прочесть
 
+- "Fall in love with a problem, not the solution"
 - Булгаков "Мастер и Маргарита"
 - "Impires of Eve" Andrew Groen
 - "The white tiger" Adiga
