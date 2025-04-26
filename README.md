@@ -12,6 +12,7 @@ My reading list
 
 ## Хочу прочесть
 
+- Толстой "Семейное счастье"
 - Чехов "Палата 6"
 - "Deep work"
 - "Fall in love with a problem, not the solution"
