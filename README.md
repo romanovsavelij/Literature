@@ -11,6 +11,10 @@ My reading list
 - "В чем моя вера?" Толстой
 
 ## Хочу прочесть
+- "Enterprise Integration Patterns"
+- "Microservices Patterns"
+- Nick Rozanski "Software Systems Architecture"
+- Влад Хонанов “Изучаем DDD”
 - Александра Толстая "Отец. Жизнь Льва Толстого"
 - Жизнь замечательных людей. Серия про Сергия Радонежского
 - Борисов "И свеча бы не угасла..."
