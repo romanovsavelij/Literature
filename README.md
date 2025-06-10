@@ -11,6 +11,7 @@ My reading list
 - "В чем моя вера?" Толстой
 
 ## Хочу прочесть
+- Gregory Zuckerman "The Man Who Solved the Market"
 - "Enterprise Integration Patterns"
 - "Microservices Patterns"
 - Nick Rozanski "Software Systems Architecture"
