@@ -11,6 +11,7 @@ My reading list
 - "В чем моя вера?" Толстой
 
 ## Хочу прочесть
+- Антуана де Сент-Экзюпери «Маленький принц», «Ночной полёт», «Южный почтовый»
 - King Stephen "The Jaunt"
 - Gregory Zuckerman "The Man Who Solved the Market"
 - "Enterprise Integration Patterns"
